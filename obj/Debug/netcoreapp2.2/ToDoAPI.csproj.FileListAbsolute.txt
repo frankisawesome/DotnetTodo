@@ -1,0 +1,14 @@
+/Users/frank/Desktop/ToDoAPI/bin/Debug/netcoreapp2.2/ToDoAPI.deps.json
+/Users/frank/Desktop/ToDoAPI/bin/Debug/netcoreapp2.2/ToDoAPI.runtimeconfig.json
+/Users/frank/Desktop/ToDoAPI/bin/Debug/netcoreapp2.2/ToDoAPI.runtimeconfig.dev.json
+/Users/frank/Desktop/ToDoAPI/bin/Debug/netcoreapp2.2/ToDoAPI.dll
+/Users/frank/Desktop/ToDoAPI/bin/Debug/netcoreapp2.2/ToDoAPI.pdb
+/Users/frank/Desktop/ToDoAPI/obj/Debug/netcoreapp2.2/ToDoAPI.csprojAssemblyReference.cache
+/Users/frank/Desktop/ToDoAPI/obj/Debug/netcoreapp2.2/ToDoAPI.csproj.CoreCompileInputs.cache
+/Users/frank/Desktop/ToDoAPI/obj/Debug/netcoreapp2.2/ToDoAPI.RazorAssemblyInfo.cache
+/Users/frank/Desktop/ToDoAPI/obj/Debug/netcoreapp2.2/ToDoAPI.RazorAssemblyInfo.cs
+/Users/frank/Desktop/ToDoAPI/obj/Debug/netcoreapp2.2/ToDoAPI.AssemblyInfoInputs.cache
+/Users/frank/Desktop/ToDoAPI/obj/Debug/netcoreapp2.2/ToDoAPI.AssemblyInfo.cs
+/Users/frank/Desktop/ToDoAPI/obj/Debug/netcoreapp2.2/ToDoAPI.RazorTargetAssemblyInfo.cache
+/Users/frank/Desktop/ToDoAPI/obj/Debug/netcoreapp2.2/ToDoAPI.dll
+/Users/frank/Desktop/ToDoAPI/obj/Debug/netcoreapp2.2/ToDoAPI.pdb
