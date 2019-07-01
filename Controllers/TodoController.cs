@@ -43,5 +43,28 @@ namespace ToDoAPI.Controllers
 
             return todoItem;
         }
+
+        [HttpPost]
+        public async Task<ActionResult<ToDoItem>> PostTodoItem(ToDoItem item)
+        {
+            _context.ToDoItems.Add(item);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetTodoItem), new { id = item.Id }, item);
+        }
+
+        // GET: api/Todo/5
+        [HttpGet("{id}")]
+        public async Task<ActionResult<ToDoItem>> GetToDoItem(long id)
+        {
+            var todoItem = await _context.ToDoItems.FindAsync(id);
+
+            if (todoItem == null)
+            {
+                return NotFound();
+            }
+
+            return todoItem;
+        }
     }
 }
